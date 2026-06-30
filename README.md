@@ -8,7 +8,7 @@ This is a simple Sudoku Solver made in C++. It uses the Backtracking algorithm t
 - Save the solved puzzle
 ## How to Run
 Compile:
-g++ -std=c++17 src/main.cpp src/SudokuSolver.cpp -o SudokuSolver.exe
+g++ src/main.cpp src/SudokuSolver.cpp -o SudokuSolver.exe
 Run:
 ./SudokuSolver.exe
 Enter the puzzle file name when asked, for example:
